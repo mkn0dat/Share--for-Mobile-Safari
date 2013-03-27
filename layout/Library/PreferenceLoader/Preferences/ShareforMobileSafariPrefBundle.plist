@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = "ShareforMobileSafariPrefBundle";
+		detail = "ShareforMobileSafariPrefBundleListController";
+		isController = 1;
+		cell = PSLinkCell;
+		icon = "/Applications/Preferences.app/Settings.png";
+		label = "Share+ for Mobile Safari";
+	};
+}

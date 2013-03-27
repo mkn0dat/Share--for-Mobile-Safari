@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>isStaticText</key>
+			<true/>
+			<key>label</key>
+			<string>Enable add a title to tweet</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.mkn0dat.shareforsafari</string>
+			<key>key</key>
+			<string>addTitle</string>
+			<key>label</key>
+			<string>On/Off: </string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Author</string>
+			<key>footerText</key>
+			<string>Share+ for Mobile Safari © 2013 mkn0dat</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>action</key>
+			<string>openTwitter</string>
+			<key>label</key>
+			<string>Developer (@mkn0dat) on Twitter</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Share+ for Mobile Safari</string>
+</dict>
+</plist>

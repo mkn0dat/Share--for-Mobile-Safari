@@ -1,0 +1,9 @@
+Package: com.mkn0dat.share+forsafari
+Name: Share+ for Safari
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: This Tweak extend shared function which is by mobileSafari.(e.g., title add when it tweet URL from Safari)
+Maintainer: mkn0dat
+Author: mkn0dat
+Section: Tweaks
